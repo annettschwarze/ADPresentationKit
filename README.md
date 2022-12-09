@@ -1,1 +1,3 @@
 # ADPresentationKit
+
+(git test)
